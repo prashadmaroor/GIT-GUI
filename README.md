@@ -1,2 +1,2 @@
 # GIT-GUI
-Spring Boot Project -  GIT GUI Test
+Spring Boot Project -  GIT GUI Merge Conflict
